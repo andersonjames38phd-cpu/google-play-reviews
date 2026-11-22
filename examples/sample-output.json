@@ -1,0 +1,50 @@
+[
+  {
+    "appId": "com.spotify.music",
+    "reviewId": "8e78cf25-bc17-42f4-a8d3-0350607289fd",
+    "userName": "E***",
+    "rating": 5,
+    "text": "honestly Spotify is the best app for listening to music",
+    "thumbsUp": 0,
+    "date": "2026-11-20T23:28:44.000Z",
+    "appVersion": null,
+    "replyText": null,
+    "replyDate": null,
+    "reviewUrl": "https://play.google.com/store/apps/details?id=com.spotify.music&reviewId=8e78cf25-bc17-42f4-a8d3-0350607289fd",
+    "country": "us",
+    "language": "en",
+    "scrapedAt": "2026-11-21T23:58:37.364Z"
+  },
+  {
+    "appId": "com.spotify.music",
+    "reviewId": "a7792203-678c-42ca-8fc1-dce72f818e4e",
+    "userName": "E***",
+    "rating": 5,
+    "text": "Highly recommended",
+    "thumbsUp": 0,
+    "date": "2026-11-20T23:25:23.000Z",
+    "appVersion": "9.2.0.2053",
+    "replyText": null,
+    "replyDate": null,
+    "reviewUrl": "https://play.google.com/store/apps/details?id=com.spotify.music&reviewId=a7792203-678c-42ca-8fc1-dce72f818e4e",
+    "country": "us",
+    "language": "en",
+    "scrapedAt": "2026-11-21T23:58:37.439Z"
+  },
+  {
+    "appId": "com.spotify.music",
+    "reviewId": "cd4310ae-e56a-4d05-a8d9-3de2c97c4dc5",
+    "userName": "G***",
+    "rating": 5,
+    "text": "good",
+    "thumbsUp": 0,
+    "date": "2026-11-20T23:22:36.000Z",
+    "appVersion": "9.1.94.1929",
+    "replyText": null,
+    "replyDate": null,
+    "reviewUrl": "https://play.google.com/store/apps/details?id=com.spotify.music&reviewId=cd4310ae-e56a-4d05-a8d9-3de2c97c4dc5",
+    "country": "us",
+    "language": "en",
+    "scrapedAt": "2026-11-21T23:58:37.464Z"
+  }
+]
